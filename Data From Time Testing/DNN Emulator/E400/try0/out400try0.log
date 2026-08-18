@@ -1,0 +1,38 @@
+f1 model accepted after try: 1
+f1 score 0.9953955993076169
+time to complete f1 DNN training: 0.02716159999545198
+v2 model accepted after try: 1
+v2 score 0.995950460651104
+time to complete v2 DNN training: 0.03481579999788664
+burn-in steps complete> 1
+burn-in steps complete> 10001
+burn-in steps complete> 20001
+burn-in steps complete> 30001
+burn-in steps complete> 40001
+burn-in steps complete> 50001
+burn-in steps complete> 60001
+burn-in steps complete> 70001
+burn-in steps complete> 80001
+burn-in steps complete> 90001
+time to complete DNN Burn in: 30.934504500000912
+steps complete> 1
+steps complete> 100001
+steps complete> 200001
+steps complete> 300001
+steps complete> 400001
+steps complete> 500001
+steps complete> 600001
+steps complete> 700001
+steps complete> 800001
+steps complete> 900001
+time to complete DNN MCMC chain (not burn in): 300.8442808999971
+accepted number of interations was 21268
+ratio of accepted steps was 0.021268
+time to complete MCMC iterations: 300.8445240000001
+Training F1 R²: 0.9953163118953853
+Testing F1 R²: 0.9953955993076169
+Overall F1 R²: 0.995454089759469
+Training v2 R²: 0.9959689515307867
+Testing v2 R²: 0.995950460651104
+Overall v2 R²: 0.9959702345969866
+Total time taken: 331.9486955999964

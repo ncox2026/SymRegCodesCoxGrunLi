@@ -1,0 +1,30 @@
+F1 model equation:  0.34206584*x0 + (0.69626915 - 0.18157998*x0)*(x0 - 40.61426/x1)
+v2 model equation:  (1.9518811e-5*x0 - 0.00016581987)*(x0*x1 - 0.118048236/(x0 - 0.5638989)) + 0.007880923
+burn-in steps complete> 1
+burn-in steps complete> 10001
+burn-in steps complete> 20001
+burn-in steps complete> 30001
+burn-in steps complete> 40001
+burn-in steps complete> 50001
+burn-in steps complete> 60001
+burn-in steps complete> 70001
+burn-in steps complete> 80001
+burn-in steps complete> 90001
+time to complete DNN Burn in: 4.228442799998447
+steps complete> 1
+steps complete> 100001
+steps complete> 200001
+steps complete> 300001
+steps complete> 400001
+steps complete> 500001
+steps complete> 600001
+steps complete> 700001
+steps complete> 800001
+steps complete> 900001
+time to complete DNN MCMC chain (not burn in): 28.733367000008002
+accepted number of interations was 6488
+ratio of accepted steps was 0.006488
+time to complete MCMC iterations: 28.733817899948917
+Overall F1 R²: -21.435579312652553
+Overall v2 R²: 0.982831341388975
+Total time taken: 33.09122499998193

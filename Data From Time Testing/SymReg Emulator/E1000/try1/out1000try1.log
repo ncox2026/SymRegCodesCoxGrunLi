@@ -1,0 +1,40 @@
+f1 model accepted after try: 1
+f1 score 0.9972173032086631
+time to complete f1 SymReg training: 29.451056699967012
+v2 model accepted after try: 2
+v2 score 0.9945586544446946
+time to complete v2 SymReg training: 60.4875602000393
+F1 model equation:  (-1*1.0374964 + 6.8756146/x1 + 0.08555662/x0)**8
+v2 model equation:  x1*(x0*(x0*9.495375e-5 - 1*0.0005113524) - 1*(-0.00021715913))
+burn-in steps complete> 1
+burn-in steps complete> 10001
+burn-in steps complete> 20001
+burn-in steps complete> 30001
+burn-in steps complete> 40001
+burn-in steps complete> 50001
+burn-in steps complete> 60001
+burn-in steps complete> 70001
+burn-in steps complete> 80001
+burn-in steps complete> 90001
+time to complete DNN Burn in: 0.9631934999488294
+steps complete> 1
+steps complete> 100001
+steps complete> 200001
+steps complete> 300001
+steps complete> 400001
+steps complete> 500001
+steps complete> 600001
+steps complete> 700001
+steps complete> 800001
+steps complete> 900001
+time to complete DNN MCMC chain (not burn in): 6.131945600034669
+accepted number of interations was 18065
+ratio of accepted steps was 0.018065
+time to complete MCMC iterations: 6.132161200046539
+Training F1 R²: 0.9954842445907858
+Testing F1 R²: 0.9972173032086631
+Overall F1 R²: 0.9958651327167863
+Training v2 R²: 0.9949903351975428
+Testing v2 R²: 0.9945586544446946
+Overall v2 R²: 0.9949193167871873
+Total time taken: 97.15500899998005

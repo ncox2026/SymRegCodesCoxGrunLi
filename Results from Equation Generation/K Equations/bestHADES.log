@@ -1,0 +1,25 @@
+K Beam Energy|xy|TestSize|0.5|try 0 Model: |x1*(-2187.7815)/(x0 - 1*0.12456918)|R2:|0.4330251084062542
+K Beam Energy|xy|TestSize|0.5|try 1 Model: |(30.372538 + x1*(-2390.5015))/x0|R2:|0.5620097707534745
+K Beam Energy|xy|TestSize|0.5|try 2 Model: |(x0 + 3.7897322)**4|R2:|0.3951240214093632
+K Beam Energy|xy|TestSize|0.5|try 3 Model: |x1*(-2214.2625)/(x0 - 0.124573566)|R2:|0.508516105882737
+K Beam Energy|xy|TestSize|0.5|try 4 Model: |x0*696.6472 - 0.91170657/(x0 - 0.24935082)|R2:|-2.5356033575046215
+K Beam Energy|xy|TestSize|0.25|try 0 Model: |219.99951 + x1*(-2196.9932)|R2:|0.3823520694254158
+K Beam Energy|xy|TestSize|0.25|try 1 Model: |-2181.5085*x1/(x0 - 0.12793651)|R2:|0.585761514002896
+K Beam Energy|xy|TestSize|0.25|try 2 Model: |(x0 + 3.8024282)**4|R2:|0.26467773207621514
+K Beam Energy|xy|TestSize|0.25|try 3 Model: |210.22768 + x1*(-2271.7505)|R2:|0.25045905666008994
+K Beam Energy|xy|TestSize|0.25|try 4 Model: |(31.841127 + x1*(-2403.589))/x0|R2:|0.7352163088902299
+K Beam Energy|xy|TestSize|0.15|try 0 Model: |-1*108.96934 - (-1)*0.087953724/(x0 - 0.35966083) + (42.847504 - 2346.672*x1)*1.2522949/x0|R2:|0.13441091640886937
+K Beam Energy|xy|TestSize|0.15|try 1 Model: |(30.873238 - 2427.0515*x1)/x0|R2:|0.7133467962103177
+K Beam Energy|xy|TestSize|0.15|try 2 Model: |(29.890575 + x1*(-2402.832))/x0|R2:|0.7587262589242202
+K Beam Energy|xy|TestSize|0.15|try 3 Model: |(x1 - 0.011982591)*(-2443.112)/x0|R2:|0.4459786027072554
+K Beam Energy|xy|TestSize|0.15|try 4 Model: |x1*(-2172.6177)/(x0 - 0.12685585)|R2:|0.3426896063365259
+K Beam Energy|xy|TestSize|0.1|try 0 Model: |224.63518 + x1*(-2076.0928)|R2:|0.6370704969304968
+K Beam Energy|xy|TestSize|0.1|try 1 Model: |(x1 - 0.012840749)*(-2414.8308)/x0|R2:|0.6089307199605181
+K Beam Energy|xy|TestSize|0.1|try 2 Model: |(x1 - 0.011919625)*(-2437.297)/x0|R2:|0.4568155444069484
+K Beam Energy|xy|TestSize|0.1|try 3 Model: |216.88301 + x1*(-2172.3843)|R2:|0.1606228119176486
+K Beam Energy|xy|TestSize|0.1|try 4 Model: |x1*(-2146.401) - 1*(-219.15471)|R2:|0.4580494739269312
+K Beam Energy|xy|TestSize|0.05|try 0 Model: |x1*(-2088.3994) - 1*(-222.54765)|R2:|0.9007417398527181
+K Beam Energy|xy|TestSize|0.05|try 1 Model: |(31.275568 + x1*(-2413.5046))/x0|R2:|0.24841441105080675
+K Beam Energy|xy|TestSize|0.05|try 2 Model: |(29.888536 + x1*(-2428.6372))/x0|R2:|-0.714206902880002
+K Beam Energy|xy|TestSize|0.05|try 3 Model: |226.70654 + x1*(-2010.6453)|R2:|0.6884247650316218
+K Beam Energy|xy|TestSize|0.05|try 4 Model: |219.02576 + x1*(-2166.7776)|R2:|0.4771685194475267
